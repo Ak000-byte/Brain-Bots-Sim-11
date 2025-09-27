@@ -1,4 +1,4 @@
-# Color-Filtered Robot Navigation System
+# Robot Navigation System
 
 A comprehensive 2D robot navigation system with advanced color filtering capabilities for maze processing and real-time simulation.
 
